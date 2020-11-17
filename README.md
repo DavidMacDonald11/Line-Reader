@@ -12,7 +12,9 @@ Then, run *./lineReader fileName line*.
 This will then print out that line of the file.
 
 ## Things To Note
+If you read from a file that doesn't exist, it will output nothing.
 If you read a line that doesn't exist, it will output nothing.
+It will output the line without a newline character.
 
 ## Future Plans
 - Adding the ability to read multiple lines at once.
