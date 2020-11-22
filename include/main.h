@@ -2,7 +2,7 @@
 #include <iostream>
 #include <sstream>
 
-// Handles improper useage of the program.
+// Handles improper usage of the program.
 bool usage(const int argc);
 
 // Parses an integer from a string.
